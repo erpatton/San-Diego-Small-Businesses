@@ -1,0 +1,679 @@
+"","Industry","Data","Total","0-4","5-9","10-19","20-49","50-99","100-249","250-499","500-999","1000","Year"
+"1","Total","No. of Businesses",75144,45441,11798,8146,5886,2167,1269,293,100,44,2001-01-01
+"2","Total","No. of Employees",1013928,63624,78376,110290,178339,148040,190299,97214,59586,66834,2001-01-01
+"3","Total","Payroll (in thousands)",9235556,557685,598537,856782,1450620,1305238,1790872,948942,680683,832151,2001-01-01
+"4","Agriculture","No. of Businesses",936,557,158,103,73,NA,15,3,NA,NA,2001-01-01
+"5","Agriculture","No. of Employees",11993,890,1062,1426,2303,NA,2154,1186,NA,NA,2001-01-01
+"6","Agriculture","Payroll (in thousands)",63797,4979,5999,6982,13093,NA,10097,6024,NA,NA,2001-01-01
+"7","Mining","No. of Businesses",31,25,NA,NA,NA,NA,NA,NA,NA,NA,2001-01-01
+"8","Mining","No. of Employees",283,37,NA,NA,NA,NA,NA,NA,NA,NA,2001-01-01
+"9","Mining","Payroll (in thousands)",4085,408,NA,NA,NA,NA,NA,NA,NA,NA,2001-01-01
+"10","Utilities","No. of Businesses",79,35,NA,NA,NA,NA,NA,NA,NA,NA,2001-01-01
+"11","Utilities","No. of Employees",5223,71,NA,NA,NA,NA,NA,NA,NA,NA,2001-01-01
+"12","Utilities","Payroll (in thousands)",74029,542,NA,NA,NA,NA,NA,NA,NA,NA,2001-01-01
+"13","Construction","No. of Businesses",5982,3428,994,743,485,202,104,21,5,NA,2001-01-01
+"14","Construction","No. of Employees",75956,5125,6534,10243,14971,13920,15728,6482,2953,NA,2001-01-01
+"15","Construction","Payroll (in thousands)",735776,43499,52165,90094,147348,146708,153258,71964,30740,NA,2001-01-01
+"16","Manufacturing","No. of Businesses",3828,1538,678,606,524,244,164,43,22,9,2001-01-01
+"17","Manufacturing","No. of Employees",119466,2654,4575,8287,16033,17206,25374,14093,14699,16545,2001-01-01
+"18","Manufacturing","Payroll (in thousands)",1409008,34223,37571,72795,155063,193140,278205,140559,220294,277158,2001-01-01
+"19","Wholesale Trade","No. of Businesses",3730,2064,723,482,320,90,45,6,NA,NA,2001-01-01
+"20","Wholesale Trade","No. of Employees",39060,3338,4836,6508,9729,6067,6610,1972,NA,NA,2001-01-01
+"21","Wholesale Trade","Payroll (in thousands)",468971,41248,48800,68132,106159,74889,100656,29087,NA,NA,2001-01-01
+"22","Retail Trade","No. of Businesses",8769,3913,2091,1343,829,341,203,44,5,NA,2001-01-01
+"23","Retail Trade","No. of Employees",135697,7038,14184,17731,25456,23346,30053,14408,3481,NA,2001-01-01
+"24","Retail Trade","Payroll (in thousands)",884780,57059,73322,92358,164566,173899,210033,82385,31158,NA,2001-01-01
+"25","Transportation and Warehousing","No. of Businesses",1282,633,219,184,158,51,26,7,NA,NA,2001-01-01
+"26","Transportation and Warehousing","No. of Employees",24285,934,1433,2531,4814,3456,3956,2440,NA,NA,2001-01-01
+"27","Transportation and Warehousing","Payroll (in thousands)",179936,6969,10172,18712,37950,24844,26660,21571,NA,NA,2001-01-01
+"28","Information","No. of Businesses",1347,719,201,159,130,61,52,14,5,6,2001-01-01
+"29","Information","No. of Employees",38121,1002,1323,2182,4133,4212,7944,5045,3705,8575,2001-01-01
+"30","Information","Payroll (in thousands)",701054,17258,15150,27600,58337,51242,114669,124387,102481,189930,2001-01-01
+"31","Finance and Insurance","No. of Businesses",3737,2263,607,470,272,69,30,18,NA,NA,2001-01-01
+"32","Finance and Insurance","No. of Employees",44810,3514,4065,6424,7854,4947,4661,6326,NA,NA,2001-01-01
+"33","Finance and Insurance","Payroll (in thousands)",599729,43241,48577,74846,113381,75381,72731,93298,NA,NA,2001-01-01
+"34","Real Estate and Rental and Leasing","No. of Businesses",4164,2865,663,409,147,43,34,NA,NA,NA,2001-01-01
+"35","Real Estate and Rental and Leasing","No. of Employees",27643,4499,4327,5519,4434,2929,4719,NA,NA,NA,2001-01-01
+"36","Real Estate and Rental and Leasing","Payroll (in thousands)",218727,38412,30631,40799,38203,25397,36358,NA,NA,NA,2001-01-01
+"37","Services","No. of Businesses",41259,27401,5452,3635,2935,1040,588,133,51,24,2001-01-01
+"38","Services","No. of Employees",491391,34522,36037,49439,88612,71957,89100,45262,34748,41714,2001-01-01
+"39","Services","Payroll (in thousands)",3895664,269847,276150,364464,616520,539738,788205,379667,296010,365063,2001-01-01
+"40","Total","No. of Businesses",78524,48208,12038,8354,6032,2219,1224,314,86,49,2002-01-01
+"41","Total","No. of Employees",1025245,67973,79872,112958,182391,151326,179681,102715,54467,75320,2002-01-01
+"42","Total","Payroll (in thousands)",9434116,564471,625518,915195,1538167,1340612,1759348,1003369,632247,860986,2002-01-01
+"43","Agriculture","No. of Businesses",905,539,149,99,74,NA,9,4,NA,0,2002-01-01
+"44","Agriculture","No. of Employees",11435,823,961,1322,2222,NA,1386,1339,NA,0,2002-01-01
+"45","Agriculture","Payroll (in thousands)",65248,4822,5635,7174,12155,NA,8891,6861,NA,0,2002-01-01
+"46","Mining","No. of Businesses",33,23,4,NA,3,0,NA,0,0,0,2002-01-01
+"47","Mining","No. of Employees",337,27,26,NA,113,0,NA,0,0,0,2002-01-01
+"48","Mining","Payroll (in thousands)",4610,504,363,NA,1259,NA,NA,NA,NA,NA,2002-01-01
+"49","Utilities","No. of Businesses",88,39,10,NA,14,NA,8,NA,0,NA,2002-01-01
+"50","Utilities","No. of Employees",5913,70,66,NA,441,NA,1370,NA,0,NA,2002-01-01
+"51","Utilities","Payroll (in thousands)",90127,660,635,NA,6098,NA,20782,NA,0,NA,2002-01-01
+"52","Construction","No. of Businesses",6227,3626,1029,722,512,212,99,23,4,0,2002-01-01
+"53","Construction","No. of Employees",76578,5532,6816,9770,15468,14568,13957,7548,2919,0,2002-01-01
+"54","Construction","Payroll (in thousands)",763386,46600,55477,91440,156487,149749,146876,82524,34233,NA,2002-01-01
+"55","Manufacturing","No. of Businesses",3695,1506,680,559,504,219,160,39,19,9,2002-01-01
+"56","Manufacturing","No. of Employees",112416,2663,4561,7617,15624,15254,23834,12625,13699,16539,2002-01-01
+"57","Manufacturing","Payroll (in thousands)",1368319,22899,38286,70091,155442,170026,285235,136896,216457,272988,2002-01-01
+"58","Wholesale Trade","No. of Businesses",3804,2113,740,491,319,89,46,NA,NA,0,2002-01-01
+"59","Wholesale Trade","No. of Employees",40148,3527,4909,6659,9669,6050,7050,NA,NA,0,2002-01-01
+"60","Wholesale Trade","Payroll (in thousands)",480883,42414,48591,74750,114749,68730,90962,NA,NA,NA,2002-01-01
+"61","Retail Trade","No. of Businesses",8714,3812,2106,1367,835,339,200,47,8,0,2002-01-01
+"62","Retail Trade","No. of Employees",138387,7238,14193,18087,25648,23180,29822,14930,5289,0,2002-01-01
+"63","Retail Trade","Payroll (in thousands)",913923,42088,76847,101356,163947,175608,227712,84033,42332,NA,2002-01-01
+"64","Transportation and Warehousing","No. of Businesses",1269,639,226,168,149,48,26,10,NA,NA,2002-01-01
+"65","Transportation and Warehousing","No. of Employees",23887,977,1497,2325,4504,3362,3726,3287,NA,NA,2002-01-01
+"66","Transportation and Warehousing","Payroll (in thousands)",182088,6794,10925,18558,37025,25090,25299,28853,NA,NA,2002-01-01
+"67","Information","No. of Businesses",1358,717,222,166,124,60,43,16,3,7,2002-01-01
+"68","Information","No. of Employees",36474,1018,1467,2306,3762,4100,6465,5701,2338,9317,2002-01-01
+"69","Information","Payroll (in thousands)",557107,13208,17878,28425,56007,61124,83239,107706,55648,133873,2002-01-01
+"70","Finance and Insurance","No. of Businesses",3892,2373,591,514,274,75,41,18,3,3,2002-01-01
+"71","Finance and Insurance","No. of Employees",46955,3714,3946,7042,7883,5348,6156,6582,1818,4466,2002-01-01
+"72","Finance and Insurance","Payroll (in thousands)",670323,48742,49107,87017,118191,77394,93505,123610,23327,49431,2002-01-01
+"73","Real Estate and Rental and Leasing","No. of Businesses",4340,3003,701,412,153,40,NA,3,NA,0,2002-01-01
+"74","Real Estate and Rental and Leasing","No. of Employees",27654,4784,4575,5437,4691,2660,NA,977,NA,0,2002-01-01
+"75","Real Estate and Rental and Leasing","Payroll (in thousands)",234147,43273,34368,42625,43886,24587,NA,5582,NA,NA,2002-01-01
+"76","Services","No. of Businesses",44199,29818,5580,3843,3071,1106,564,147,43,27,2002-01-01
+"77","Services","No. of Employees",505061,37600,36855,52393,92366,76804,85915,49726,28404,44998,2002-01-01
+"78","Services","Payroll (in thousands)",4103955,292466,287406,393759,672921,588304,776848,427306,260250,404695,2002-01-01
+"79","Total","No. of Businesses",82367,51680,12257,8382,6203,2142,1245,313,93,52,2003-01-01
+"80","Total","No. of Employees",1043426,71377,81396,112586,183158,141061,184392,94725,59236,82100,2003-01-01
+"81","Total","Payroll (in thousands)",10036122,610365,661604,961981,1584296,1259920,1804627,981269,759836,1042296,2003-01-01
+"82","Agriculture","No. of Businesses",860,510,142,NA,66,30,11,4,NA,NA,2003-01-01
+"83","Agriculture","No. of Employees",11382,747,963,NA,2037,2017,1672,1246,NA,NA,2003-01-01
+"84","Agriculture","Payroll (in thousands)",66324,4253,5408,NA,11045,12617,12318,6004,NA,NA,2003-01-01
+"85","Mining","No. of Businesses",31,22,4,NA,NA,NA,NA,NA,NA,NA,2003-01-01
+"86","Mining","No. of Employees",339,35,26,NA,NA,NA,NA,NA,NA,NA,2003-01-01
+"87","Mining","Payroll (in thousands)",4693,347,392,NA,NA,NA,NA,NA,NA,NA,2003-01-01
+"88","Utilities","No. of Businesses",78,33,7,11,12,NA,NA,NA,NA,NA,2003-01-01
+"89","Utilities","No. of Employees",6198,67,42,160,351,NA,NA,NA,NA,NA,2003-01-01
+"90","Utilities","Payroll (in thousands)",98919,680,282,1899,4762,NA,NA,NA,NA,NA,2003-01-01
+"91","Construction","No. of Businesses",6341,3709,1024,745,516,209,105,NA,4,NA,2003-01-01
+"92","Construction","No. of Employees",81982,5629,6671,10262,15976,14481,14957,NA,2883,NA,2003-01-01
+"93","Construction","Payroll (in thousands)",831110,47160,55967,97160,165655,149063,164466,NA,42286,NA,2003-01-01
+"94","Manufacturing","No. of Businesses",3596,1514,645,552,476,209,138,38,14,10,2003-01-01
+"95","Manufacturing","No. of Employees",105442,2653,4363,7616,14649,14270,20830,12740,10420,17901,2003-01-01
+"96","Manufacturing","Payroll (in thousands)",1356054,29650,38048,71599,148224,163326,255088,149766,191446,308907,2003-01-01
+"97","Wholesale Trade","No. of Businesses",3927,2237,752,474,329,NA,39,7,NA,NA,2003-01-01
+"98","Wholesale Trade","No. of Employees",40267,3759,4965,6399,9984,NA,5761,2134,NA,NA,2003-01-01
+"99","Wholesale Trade","Payroll (in thousands)",499982,45558,49953,75472,114503,NA,76907,45050,NA,NA,2003-01-01
+"100","Retail Trade","No. of Businesses",8817,3896,2130,1320,879,329,204,51,8,NA,2003-01-01
+"101","Retail Trade","No. of Employees",140786,7153,14254,17515,26962,22168,31026,16263,5445,NA,2003-01-01
+"102","Retail Trade","Payroll (in thousands)",954242,45747,78766,101430,170568,170484,242859,98444,45945,NA,2003-01-01
+"103","Transportation and Warehousing","No. of Businesses",1296,686,213,167,NA,52,27,8,NA,NA,2003-01-01
+"104","Transportation and Warehousing","No. of Employees",21258,1024,1414,2358,NA,3577,4030,2423,NA,NA,2003-01-01
+"105","Transportation and Warehousing","Payroll (in thousands)",173954,7156,10267,19342,NA,27849,27846,23406,NA,NA,2003-01-01
+"106","Information","No. of Businesses",1371,735,223,150,141,59,38,10,8,7,2003-01-01
+"107","Information","No. of Employees",36980,1043,1497,2058,4317,4283,5994,3270,5471,9047,2003-01-01
+"108","Information","Payroll (in thousands)",720491,12612,17712,28162,53864,63119,88069,73521,147462,235971,2003-01-01
+"109","Finance and Insurance","No. of Businesses",4162,2469,668,565,306,75,51,20,5,3,2003-01-01
+"110","Finance and Insurance","No. of Employees",52238,3840,4494,7678,8647,4954,7586,6807,3323,4909,2003-01-01
+"111","Finance and Insurance","Payroll (in thousands)",795598,54358,58823,112386,151373,83310,126807,99651,41424,67467,2003-01-01
+"112","Real Estate and Rental and Leasing","No. of Businesses",4575,3214,720,393,171,44,28,5,NA,NA,2003-01-01
+"113","Real Estate and Rental and Leasing","No. of Employees",29087,4976,4788,5153,5213,2901,4261,1795,NA,NA,2003-01-01
+"114","Real Estate and Rental and Leasing","Payroll (in thousands)",257445,46382,39331,40579,51416,28196,36670,14872,NA,NA,2003-01-01
+"115","Services","No. of Businesses",47313,32655,5729,3909,3164,1046,595,139,47,29,2003-01-01
+"116","Services","No. of Employees",517467,40451,37919,53390,95025,72413,88277,48050,31697,50245,2003-01-01
+"117","Services","Payroll (in thousands)",4277308,316461,306655,413955,712889,561961,773599,470559,291276,429952,2003-01-01
+"118","Total","No. of Businesses",84373,53118,12367,8690,6293,2158,1298,297,100,52,2004-01-01
+"119","Total","No. of Employees",1063479,72178,82210,118340,186447,145700,191848,92215,59237,83282,2004-01-01
+"120","Total","Payroll (in thousands)",10747213,653324,705557,1013139,1675933,1363196,1949373,1005638,847180,1147364,2004-01-01
+"121","Agriculture","No. of Businesses",833,496,137,82,74,27,12,NA,NA,NA,2004-01-01
+"122","Agriculture","No. of Employees",11194,763,904,1170,2195,1896,1946,NA,NA,NA,2004-01-01
+"123","Agriculture","Payroll (in thousands)",69563,4641,5127,6413,13371,13872,12825,NA,NA,NA,2004-01-01
+"124","Mining","No. of Businesses",33,20,6,3,NA,NA,NA,NA,NA,NA,2004-01-01
+"125","Mining","No. of Employees",421,26,39,45,NA,NA,NA,NA,NA,NA,2004-01-01
+"126","Mining","Payroll (in thousands)",6483,295,382,713,NA,NA,NA,NA,NA,NA,2004-01-01
+"127","Utilities","No. of Businesses",76,28,10,11,14,NA,NA,NA,NA,NA,2004-01-01
+"128","Utilities","No. of Employees",4667,56,61,150,406,NA,NA,NA,NA,NA,2004-01-01
+"129","Utilities","Payroll (in thousands)",67581,425,592,1889,6007,NA,NA,NA,NA,NA,2004-01-01
+"130","Construction","No. of Businesses",6670,3753,1133,818,598,202,141,18,NA,NA,2004-01-01
+"131","Construction","No. of Employees",90700,5817,7489,11246,18313,13525,20486,6121,NA,NA,2004-01-01
+"132","Construction","Payroll (in thousands)",962295,55703,67003,110151,189674,148965,227646,78437,NA,NA,2004-01-01
+"133","Manufacturing","No. of Businesses",3511,1490,610,548,467,188,142,41,15,10,2004-01-01
+"134","Manufacturing","No. of Employees",105011,2585,4117,7621,14507,13118,20853,13471,10540,18199,2004-01-01
+"135","Manufacturing","Payroll (in thousands)",1455663,25142,37827,74403,155906,163917,268191,157627,262249,310400,2004-01-01
+"136","Wholesale Trade","No. of Businesses",3986,2337,708,471,325,96,43,NA,NA,NA,2004-01-01
+"137","Wholesale Trade","No. of Employees",40830,3948,4781,6362,9650,6600,6672,NA,NA,NA,2004-01-01
+"138","Wholesale Trade","Payroll (in thousands)",534083,52380,56747,71261,118182,85167,95502,NA,NA,NA,2004-01-01
+"139","Retail Trade","No. of Businesses",8708,3739,2088,1380,901,330,208,56,6,NA,2004-01-01
+"140","Retail Trade","No. of Employees",143800,6926,13987,18305,27641,23088,31663,17877,4313,NA,2004-01-01
+"141","Retail Trade","Payroll (in thousands)",996978,44121,80514,112988,185020,179374,240852,111757,42352,NA,2004-01-01
+"142","Transportation and Warehousing","No. of Businesses",1308,687,214,168,152,46,30,NA,NA,NA,2004-01-01
+"143","Transportation and Warehousing","No. of Employees",21867,1060,1377,2257,4750,3168,4244,NA,NA,NA,2004-01-01
+"144","Transportation and Warehousing","Payroll (in thousands)",191814,7919,10417,17587,42671,28072,32940,NA,NA,NA,2004-01-01
+"145","Information","No. of Businesses",1318,709,208,156,NA,NA,40,12,7,7,2004-01-01
+"146","Information","No. of Employees",36856,1044,1389,2102,NA,NA,6191,4032,4722,9708,2004-01-01
+"147","Information","Payroll (in thousands)",814850,15443,16490,28258,NA,NA,92081,99143,147559,311249,2004-01-01
+"148","Finance and Insurance","No. of Businesses",4266,2536,700,557,326,76,48,14,6,3,2004-01-01
+"149","Finance and Insurance","No. of Employees",51036,4075,4757,7660,9207,5101,7629,4847,3520,4240,2004-01-01
+"150","Finance and Insurance","Payroll (in thousands)",773541,57504,60414,103262,152702,89309,131397,76267,40273,62414,2004-01-01
+"151","Real Estate and Rental and Leasing","No. of Businesses",4725,3393,666,407,180,48,25,NA,NA,NA,2004-01-01
+"152","Real Estate and Rental and Leasing","No. of Employees",29053,5175,4362,5292,5262,3230,3534,NA,NA,NA,2004-01-01
+"153","Real Estate and Rental and Leasing","Payroll (in thousands)",281822,54789,38845,43998,63237,33471,34446,NA,NA,NA,2004-01-01
+"154","Services","No. of Businesses",48939,33930,5887,4089,3129,1090,599,133,53,29,2004-01-01
+"155","Services","No. of Employees",528044,40703,38947,56130,94516,75974,88630,45867,36142,51135,2004-01-01
+"156","Services","Payroll (in thousands)",4592540,334962,331201,442217,749163,621049,813494,482406,354748,463301,2004-01-01
+"157","Total","No. of Businesses",85540,53569,12719,8777,6474,2171,1369,319,88,54,2005-01-01
+"158","Total","No. of Employees",1086735,73437,84665,119351,195491,149769,205548,107890,61789,88795,2005-01-01
+"159","Total","Payroll (in thousands)",11838582,701126,761162,1087659,1908486,1513933,2353144,1208934,815115,1489023,2005-01-01
+"160","Agriculture","No. of Businesses",769,465,118,72,74,22,13,NA,NA,NA,2005-01-01
+"161","Agriculture","No. of Employees",10825,750,797,1000,2263,1526,1926,NA,NA,NA,2005-01-01
+"162","Agriculture","Payroll (in thousands)",71797,5213,5391,6343,14680,11309,14009,NA,NA,NA,2005-01-01
+"163","Mining","No. of Businesses",32,24,NA,NA,3,NA,NA,NA,NA,NA,2005-01-01
+"164","Mining","No. of Employees",440,39,NA,NA,123,NA,NA,NA,NA,NA,2005-01-01
+"165","Mining","Payroll (in thousands)",6731,600,NA,NA,1769,NA,NA,NA,NA,NA,2005-01-01
+"166","Utilities","No. of Businesses",73,31,11,8,11,NA,NA,NA,NA,NA,2005-01-01
+"167","Utilities","No. of Employees",4609,57,66,124,371,NA,NA,NA,NA,NA,2005-01-01
+"168","Utilities","Payroll (in thousands)",82784,477,950,2034,6516,NA,NA,NA,NA,NA,2005-01-01
+"169","Construction","No. of Businesses",6783,3685,1253,841,642,197,132,28,NA,NA,2005-01-01
+"170","Construction","No. of Employees",93483,6003,8304,11451,19536,13709,19662,9600,NA,NA,2005-01-01
+"171","Construction","Payroll (in thousands)",1084636,61805,79298,120071,230657,157164,258352,126747,NA,NA,2005-01-01
+"172","Manufacturing","No. of Businesses",3332,1340,602,522,480,183,145,34,14,12,2005-01-01
+"173","Manufacturing","No. of Employees",103757,2422,4047,7101,14659,12881,21563,11260,9770,20054,2005-01-01
+"174","Manufacturing","Payroll (in thousands)",1497783,34162,38477,72031,172158,169967,313867,135945,172912,388265,2005-01-01
+"175","Wholesale Trade","No. of Businesses",3996,2297,739,476,332,94,46,9,3,NA,2005-01-01
+"176","Wholesale Trade","No. of Employees",43374,3936,4940,6453,9963,6479,6617,2757,2229,NA,2005-01-01
+"177","Wholesale Trade","Payroll (in thousands)",588304,49876,58106,75348,130570,87731,99650,41724,45300,NA,2005-01-01
+"178","Retail Trade","No. of Businesses",8617,3574,2114,1372,916,338,241,57,5,NA,2005-01-01
+"179","Retail Trade","No. of Employees",148265,6844,14149,18272,27879,23267,36275,17913,3666,NA,2005-01-01
+"180","Retail Trade","Payroll (in thousands)",1076682,46720,85903,116725,194589,184468,295778,122714,29786,NA,2005-01-01
+"181","Transportation and Warehousing","No. of Businesses",1274,643,239,161,142,52,27,NA,NA,NA,2005-01-01
+"182","Transportation and Warehousing","No. of Employees",21872,1033,1585,2239,4357,3587,4097,NA,NA,NA,2005-01-01
+"183","Transportation and Warehousing","Payroll (in thousands)",201876,8031,12700,18957,42474,34032,33775,NA,NA,NA,2005-01-01
+"184","Information","No. of Businesses",1276,693,NA,NA,124,54,40,12,5,8,2005-01-01
+"185","Information","No. of Employees",37133,1062,NA,NA,3774,3825,6391,4032,3387,11348,2005-01-01
+"186","Information","Payroll (in thousands)",935033,15550,NA,NA,56244,56273,130501,103980,89848,437815,2005-01-01
+"187","Finance and Insurance","No. of Businesses",4461,2658,723,589,335,82,50,15,NA,NA,2005-01-01
+"188","Finance and Insurance","No. of Employees",53494,4234,4892,8166,9570,5512,7769,5227,NA,NA,2005-01-01
+"189","Finance and Insurance","Payroll (in thousands)",869404,65268,66160,117528,172715,91920,141724,93749,NA,NA,2005-01-01
+"190","Real Estate and Rental and Leasing","No. of Businesses",4805,3405,747,400,167,NA,NA,6,NA,NA,2005-01-01
+"191","Real Estate and Rental and Leasing","No. of Employees",30173,5165,4931,5181,4969,NA,NA,2286,NA,NA,2005-01-01
+"192","Real Estate and Rental and Leasing","Payroll (in thousands)",303334,55778,44056,50580,57909,NA,NA,14947,NA,NA,2005-01-01
+"193","Services","No. of Businesses",50122,34754,5980,4186,3248,1097,637,145,47,28,2005-01-01
+"194","Services","No. of Employees",539310,41892,39668,57311,98027,75521,95565,50159,33030,48137,2005-01-01
+"195","Services","Payroll (in thousands)",5120218,357648,353202,479947,828204,683481,993514,518879,369466,535878,2005-01-01
+"196","Total","No. of Businesses",90568,58072,13036,8908,6479,2248,1359,305,108,53,2006-01-01
+"197","Total","No. of Employees",1104886,78490,86350,120674,195372,155460,204360,101626,74647,87907,2006-01-01
+"198","Total","Payroll (in thousands)",11964016,744281,782418,1119114,1911862,1632961,2208295,1193163,981352,1390571,2006-01-01
+"199","Agriculture","No. of Businesses",753,451,110,71,75,28,14,NA,NA,NA,2006-01-01
+"200","Agriculture","No. of Employees",11228,746,728,957,2299,2080,2257,NA,NA,NA,2006-01-01
+"201","Agriculture","Payroll (in thousands)",71911,5036,4986,5965,14351,14363,14809,NA,NA,NA,2006-01-01
+"202","Mining","No. of Businesses",36,27,NA,3,NA,NA,NA,NA,NA,NA,2006-01-01
+"203","Mining","No. of Employees",461,38,NA,34,NA,NA,NA,NA,NA,NA,2006-01-01
+"204","Mining","Payroll (in thousands)",7113,559,NA,216,NA,NA,NA,NA,NA,NA,2006-01-01
+"205","Utilities","No. of Businesses",70,31,10,7,6,NA,NA,NA,NA,NA,2006-01-01
+"206","Utilities","No. of Employees",6482,61,57,108,189,NA,NA,NA,NA,NA,2006-01-01
+"207","Utilities","Payroll (in thousands)",124239,448,1181,1751,4221,NA,NA,NA,NA,NA,2006-01-01
+"208","Construction","No. of Businesses",7239,4096,1272,883,620,219,121,20,NA,NA,2006-01-01
+"209","Construction","No. of Employees",92758,6542,8445,11915,18803,15156,18139,7051,NA,NA,2006-01-01
+"210","Construction","Payroll (in thousands)",1082693,64140,79549,131001,214922,185145,227708,102980,NA,NA,2006-01-01
+"211","Manufacturing","No. of Businesses",3303,1333,622,506,451,184,143,36,17,11,2006-01-01
+"212","Manufacturing","No. of Employees",103534,2449,4172,7000,13979,12898,21440,11785,11735,18076,2006-01-01
+"213","Manufacturing","Payroll (in thousands)",1502604,26292,39766,70836,166484,186259,290237,138847,195819,388064,2006-01-01
+"214","Wholesale Trade","No. of Businesses",4216,2501,738,489,320,109,48,8,3,NA,2006-01-01
+"215","Wholesale Trade","No. of Employees",44631,4276,4922,6508,9622,7353,7016,2583,2351,NA,2006-01-01
+"216","Wholesale Trade","Payroll (in thousands)",603509,54129,56158,82276,127030,97924,101114,38810,46067,NA,2006-01-01
+"217","Retail Trade","No. of Businesses",8943,3889,2161,1336,918,338,240,56,NA,NA,2006-01-01
+"218","Retail Trade","No. of Employees",148187,7414,14411,18035,27678,23425,35867,17532,NA,NA,2006-01-01
+"219","Retail Trade","Payroll (in thousands)",1063121,54764,88606,112143,183941,176681,291988,119065,NA,NA,2006-01-01
+"220","Transportation and Warehousing","No. of Businesses",1384,749,226,181,147,46,26,6,NA,NA,2006-01-01
+"221","Transportation and Warehousing","No. of Employees",21382,1171,1501,2457,4558,3215,3777,2103,NA,NA,2006-01-01
+"222","Transportation and Warehousing","Payroll (in thousands)",199607,10126,11154,20716,44071,32311,31148,23001,NA,NA,2006-01-01
+"223","Information","No. of Businesses",1314,707,NA,164,NA,50,47,9,9,5,2006-01-01
+"224","Information","No. of Employees",37141,1053,NA,2315,NA,3508,7166,2980,6447,8629,2006-01-01
+"225","Information","Payroll (in thousands)",755614,14795,NA,32077,NA,54773,115541,63739,125969,275718,2006-01-01
+"226","Finance and Insurance","No. of Businesses",4883,3017,792,585,337,77,51,13,8,3,2006-01-01
+"227","Finance and Insurance","No. of Employees",53154,4540,5314,7913,9778,5164,7691,4427,4443,3884,2006-01-01
+"228","Finance and Insurance","Payroll (in thousands)",827757,65664,71296,109222,167700,90284,137322,75043,57862,53363,2006-01-01
+"229","Real Estate and Rental and Leasing","No. of Businesses",5201,3821,740,380,173,56,23,8,0,0,2006-01-01
+"230","Real Estate and Rental and Leasing","No. of Employees",30800,5409,4843,4939,5002,3878,3642,3087,0,0,2006-01-01
+"231","Real Estate and Rental and Leasing","Payroll (in thousands)",309110,55523,42272,48526,57844,43461,34783,26702,0,0,2006-01-01
+"232","Services","No. of Businesses",53226,37450,6160,4303,3311,1136,637,144,56,29,2006-01-01
+"233","Services","No. of Employees",555128,44791,40632,58493,99673,78526,95883,48178,38936,50016,2006-01-01
+"234","Services","Payroll (in thousands)",5416738,392806,368847,504385,875960,747808,932886,581583,434266,578197,2006-01-01
+"235","Total","No. of Businesses",90562,57795,13074,9048,6545,2284,1351,310,103,52,2007-01-01
+"236","Total","No. of Employees",1107409,76657,86698,122797,196531,157692,201227,105735,72146,87926,2007-01-01
+"237","Total","Payroll (in thousands)",12530328,750921,810464,1201516,1981406,1648165,2274449,1273771,1133488,1456146,2007-01-01
+"238","Agriculture","No. of Businesses",744,429,110,84,NA,29,18,NA,3,NA,2007-01-01
+"239","Agriculture","No. of Employees",11551,696,720,1142,NA,1863,2459,NA,2021,NA,2007-01-01
+"240","Agriculture","Payroll (in thousands)",77420,4736,5121,7429,NA,12459,17134,NA,11970,NA,2007-01-01
+"241","Mining","No. of Businesses",27,17,NA,5,NA,NA,NA,NA,NA,NA,2007-01-01
+"242","Mining","No. of Employees",416,25,NA,71,NA,NA,NA,NA,NA,NA,2007-01-01
+"243","Mining","Payroll (in thousands)",5926,337,NA,998,NA,NA,NA,NA,NA,NA,2007-01-01
+"244","Utilities","No. of Businesses",71,30,11,9,6,NA,9,3,NA,NA,2007-01-01
+"245","Utilities","No. of Employees",6824,53,67,139,212,NA,1607,1169,NA,NA,2007-01-01
+"246","Utilities","Payroll (in thousands)",123781,458,1269,2239,4024,NA,30879,17461,NA,NA,2007-01-01
+"247","Construction","No. of Businesses",7166,4080,1265,849,630,216,100,NA,8,NA,2007-01-01
+"248","Construction","No. of Employees",86942,6301,8334,11422,18991,14683,14281,NA,5439,NA,2007-01-01
+"249","Construction","Payroll (in thousands)",1085700,65128,83856,132137,233330,186696,200723,NA,85719,NA,2007-01-01
+"250","Manufacturing","No. of Businesses",3182,1283,569,498,440,195,138,31,17,11,2007-01-01
+"251","Manufacturing","No. of Employees",102165,2433,3831,6849,13490,13710,21040,10564,11536,18712,2007-01-01
+"252","Manufacturing","Payroll (in thousands)",1553100,26552,39336,76164,168316,178336,293617,149727,227020,394033,2007-01-01
+"253","Wholesale Trade","No. of Businesses",4188,2452,734,515,319,113,44,7,4,NA,2007-01-01
+"254","Wholesale Trade","No. of Employees",44535,4126,4910,6851,9542,7783,6409,2073,2841,NA,2007-01-01
+"255","Wholesale Trade","Payroll (in thousands)",710385,52930,60206,88370,132044,117861,103376,26509,129089,NA,2007-01-01
+"256","Retail Trade","No. of Businesses",8796,3732,2099,1399,926,343,238,56,NA,NA,2007-01-01
+"257","Retail Trade","No. of Employees",147627,7273,14053,18753,27950,23984,34523,18285,NA,NA,2007-01-01
+"258","Retail Trade","Payroll (in thousands)",1067687,54296,87786,115727,187792,187503,278058,128727,NA,NA,2007-01-01
+"259","Transportation and Warehousing","No. of Businesses",1352,697,238,184,148,48,28,6,NA,NA,2007-01-01
+"260","Transportation and Warehousing","No. of Employees",21949,1054,1607,2491,4493,3355,4092,2381,NA,NA,2007-01-01
+"261","Transportation and Warehousing","Payroll (in thousands)",216270,9342,12904,21499,43856,33025,33006,27683,NA,NA,2007-01-01
+"262","Information","No. of Businesses",1274,680,187,152,135,57,41,7,9,6,2007-01-01
+"263","Information","No. of Employees",37958,1001,1228,2080,4118,4056,6500,2322,6360,10293,2007-01-01
+"264","Information","Payroll (in thousands)",844098,15805,17652,30376,61239,57486,114832,64428,136846,345434,2007-01-01
+"265","Finance and Insurance","No. of Businesses",4789,2963,797,569,316,71,NA,12,4,NA,2007-01-01
+"266","Finance and Insurance","No. of Employees",49289,4234,5309,7603,9247,4678,NA,4612,2291,NA,2007-01-01
+"267","Finance and Insurance","Payroll (in thousands)",831237,66581,72243,118175,169322,91358,NA,83412,45032,NA,2007-01-01
+"268","Real Estate and Rental and Leasing","No. of Businesses",5033,3692,758,338,169,39,29,5,3,NA,2007-01-01
+"269","Real Estate and Rental and Leasing","No. of Employees",30241,5057,5013,4542,4991,2767,4492,1836,1543,NA,2007-01-01
+"270","Real Estate and Rental and Leasing","Payroll (in thousands)",321501,53977,46612,46510,63033,35654,46407,20195,9114,NA,2007-01-01
+"271","Services","No. of Businesses",53940,37740,6306,4446,3385,1170,650,164,51,28,2007-01-01
+"272","Services","No. of Employees",567912,44404,41626,60854,101374,80614,97351,55915,37114,48660,2007-01-01
+"273","Services","Payroll (in thousands)",5693222,400779,383479,561892,903156,745433,1008077,660787,445500,584119,2007-01-01
+"274","Total","No. of Businesses",92786,60391,12908,9057,6381,2310,1280,312,93,54,2008-01-01
+"275","Total","No. of Employees",1092928,77335,85779,122599,191017,159068,189583,107845,67236,92466,2008-01-01
+"276","Total","Payroll (in thousands)",12926424,763836,831851,1185562,1981503,1689025,2228682,1379855,1015091,1851019,2008-01-01
+"277","Agriculture","No. of Businesses",732,428,109,74,NA,29,16,NA,NA,NA,2008-01-01
+"278","Agriculture","No. of Employees",11097,636,732,998,NA,1971,2303,NA,NA,NA,2008-01-01
+"279","Agriculture","Payroll (in thousands)",77548,5036,4773,6720,NA,14740,16160,NA,NA,NA,2008-01-01
+"280","Utilities","No. of Businesses",79,30,12,7,11,5,8,NA,NA,NA,2008-01-01
+"281","Utilities","No. of Employees",6923,58,75,96,345,311,1308,NA,NA,NA,2008-01-01
+"282","Utilities","Payroll (in thousands)",152038,740,2247,1515,8290,10845,28377,NA,NA,NA,2008-01-01
+"283","Construction and Mining","No. of Businesses",7028,4115,1220,814,575,196,83,22,3,NA,2008-01-01
+"284","Construction and Mining","No. of Employees",76146,5894,7937,10959,17182,13167,11457,7414,2136,NA,2008-01-01
+"285","Construction and Mining","Payroll (in thousands)",990936,62137,80854,129280,219818,183089,159492,117285,38982,NA,2008-01-01
+"286","Manufacturing","No. of Businesses",3128,1281,532,499,437,183,137,32,14,13,2008-01-01
+"287","Manufacturing","No. of Employees",102121,2263,3549,6818,13511,12884,20726,10755,9696,21919,2008-01-01
+"288","Manufacturing","Payroll (in thousands)",1594104,24124,39023,75394,172839,171638,289300,154014,188245,479527,2008-01-01
+"289","Wholesale Trade","No. of Businesses",4126,2410,770,458,324,100,50,10,4,NA,2008-01-01
+"290","Wholesale Trade","No. of Employees",44919,4118,5167,6161,9522,6860,7324,3008,2759,NA,2008-01-01
+"291","Wholesale Trade","Payroll (in thousands)",671093,56953,66166,83630,135692,105004,115686,48330,59633,NA,2008-01-01
+"292","Retail Trade","No. of Businesses",8598,3591,2079,1416,882,370,203,NA,NA,NA,2008-01-01
+"293","Retail Trade","No. of Employees",141129,6840,13948,18886,26649,26234,29397,NA,NA,NA,2008-01-01
+"294","Retail Trade","Payroll (in thousands)",1027656,53852,87047,119682,185778,192834,235633,NA,NA,NA,2008-01-01
+"295","Transportation and Warehousing","No. of Businesses",1340,702,219,188,141,54,27,6,3,NA,2008-01-01
+"296","Transportation and Warehousing","No. of Employees",22150,1149,1493,2464,4390,3740,3974,2465,2475,NA,2008-01-01
+"297","Transportation and Warehousing","Payroll (in thousands)",214288,10625,13403,21713,44913,36060,30636,26888,30049,NA,2008-01-01
+"298","Information","No. of Businesses",1252,657,186,158,132,60,36,7,10,6,2008-01-01
+"299","Information","No. of Employees",38794,983,1208,2259,3954,4206,5411,2382,7208,11183,2008-01-01
+"300","Information","Payroll (in thousands)",1142363,15484,18232,33815,64062,67842,101620,77058,159164,605086,2008-01-01
+"301","Finance and Insurance","No. of Businesses",4564,2846,770,549,259,78,47,10,NA,NA,2008-01-01
+"302","Finance and Insurance","No. of Employees",45483,3964,5153,7424,7576,5246,6920,4229,NA,NA,2008-01-01
+"303","Finance and Insurance","Payroll (in thousands)",761450,61789,75214,102961,144449,101376,119113,71915,NA,NA,2008-01-01
+"304","Real Estate and Rental and Leasing","No. of Businesses",4909,3628,675,362,159,46,32,NA,NA,NA,2008-01-01
+"305","Real Estate and Rental and Leasing","No. of Employees",29620,5113,4387,4710,4701,3181,4663,NA,NA,NA,2008-01-01
+"306","Real Estate and Rental and Leasing","Payroll (in thousands)",307690,51509,41738,47354,53517,38325,48593,NA,NA,NA,2008-01-01
+"307","Services","No. of Businesses",57030,40703,6336,4532,3389,1189,641,159,50,31,2008-01-01
+"308","Services","No. of Employees",574546,46317,42130,61824,100997,81268,96100,55750,37339,52821,2008-01-01
+"309","Services","Payroll (in thousands)",5987256,421587,403154,563498,936216,767273,1084074,697281,464134,650040,2008-01-01
+"310","Total","No. of Businesses",92478,62248,12133,8563,5838,2152,1128,268,101,47,2009-01-01
+"311","Total","No. of Employees",1012377,74662,80691,116105,175825,148353,168803,91029,71881,85028,2009-01-01
+"312","Total","Payroll (in thousands)",11799083,750899,782959,1107948,1825832,1581247,1970186,1203965,1030221,1545826,2009-01-01
+"313","Agriculture","No. of Businesses",701,428,102,68,61,28,11,NA,NA,NA,2009-01-01
+"314","Agriculture","No. of Employees",9441,617,678,923,1876,1961,1573,NA,NA,NA,2009-01-01
+"315","Agriculture","Payroll (in thousands)",67651,4991,4493,6107,14747,14208,11833,NA,NA,NA,2009-01-01
+"316","Utilities","No. of Businesses",83,34,9,11,9,6,8,NA,NA,NA,2009-01-01
+"317","Utilities","No. of Employees",7288,57,57,154,304,407,1416,NA,NA,NA,2009-01-01
+"318","Utilities","Payroll (in thousands)",161925,568,1379,3759,6540,8399,30643,NA,NA,NA,2009-01-01
+"319","Construction and Mining","No. of Businesses",6705,4367,1008,667,450,141,59,9,4,NA,2009-01-01
+"320","Construction and Mining","No. of Employees",58905,5113,6694,8992,13978,9585,8804,3072,2667,NA,2009-01-01
+"321","Construction and Mining","Payroll (in thousands)",811181,58005,76026,110513,186877,139624,133555,54138,52443,NA,2009-01-01
+"322","Manufacturing","No. of Businesses",3044,1360,517,432,387,174,119,30,13,12,2009-01-01
+"323","Manufacturing","No. of Employees",92891,2162,3464,5961,11919,12187,17739,10072,9207,20180,2009-01-01
+"324","Manufacturing","Payroll (in thousands)",1497523,25025,37219,66890,152112,170413,261174,139475,187667,457548,2009-01-01
+"325","Wholesale Trade","No. of Businesses",4024,2452,710,439,275,96,41,8,3,NA,2009-01-01
+"326","Wholesale Trade","No. of Employees",39936,3762,4685,5880,7949,6572,6328,2557,2203,NA,2009-01-01
+"327","Wholesale Trade","Payroll (in thousands)",585335,52412,58919,76285,118734,97913,99450,39254,42368,NA,2009-01-01
+"328","Retail Trade","No. of Businesses",8360,3710,1941,1313,820,342,185,NA,NA,NA,2009-01-01
+"329","Retail Trade","No. of Employees",129987,6741,13093,17655,24794,24363,26790,NA,NA,NA,2009-01-01
+"330","Retail Trade","Payroll (in thousands)",932011,53484,83709,111493,169162,186674,205773,NA,NA,NA,2009-01-01
+"331","Transportation and Warehousing","No. of Businesses",1359,767,209,180,127,49,19,5,3,NA,2009-01-01
+"332","Transportation and Warehousing","No. of Employees",19592,1144,1380,2371,3892,3464,2953,2020,2368,NA,2009-01-01
+"333","Transportation and Warehousing","Payroll (in thousands)",193881,10824,11788,22223,38804,33763,22765,24904,28810,NA,2009-01-01
+"334","Information","No. of Businesses",1231,677,163,157,125,52,36,6,10,5,2009-01-01
+"335","Information","No. of Employees",36181,921,1103,2195,3946,3526,5330,2014,7297,9849,2009-01-01
+"336","Information","Payroll (in thousands)",868908,18749,17854,33530,69890,47372,96595,50537,144608,389774,2009-01-01
+"337","Finance and Insurance","No. of Businesses",4309,2694,694,531,267,72,35,NA,5,NA,2009-01-01
+"338","Finance and Insurance","No. of Employees",43145,3781,4625,7076,7887,5017,4928,NA,3126,NA,2009-01-01
+"339","Finance and Insurance","Payroll (in thousands)",698201,59212,61229,93401,146854,94378,88768,NA,57799,NA,2009-01-01
+"340","Real Estate and Rental and Leasing","No. of Businesses",4640,3474,640,307,145,44,24,NA,NA,NA,2009-01-01
+"341","Real Estate and Rental and Leasing","No. of Employees",26014,4778,4198,4033,4259,3117,3319,NA,NA,NA,2009-01-01
+"342","Real Estate and Rental and Leasing","Payroll (in thousands)",276529,51101,40380,40761,48502,39823,34614,NA,NA,NA,2009-01-01
+"343","Services","No. of Businesses",58022,42285,6140,4458,3172,1148,591,144,58,26,2009-01-01
+"344","Services","No. of Employees",548997,45586,40714,60865,95021,78154,89623,49226,41446,48362,2009-01-01
+"345","Services","Payroll (in thousands)",5705938,416527,389964,542989,873609,748679,985016,679726,494833,574596,2009-01-01
+"346","Total","No. of Businesses",92412,62128,12202,8584,5800,2137,1135,276,101,49,2010-01-01
+"347","Total","No. of Employees",1017709,78905,81049,116583,175651,147312,170981,93040,70606,83582,2010-01-01
+"348","Total","Payroll (in thousands)",12156242,756388,801996,1145740,1829756,1597610,2129074,1292599,1106698,1496381,2010-01-01
+"349","Agriculture","No. of Businesses",681,407,101,71,56,31,11,NA,NA,NA,2010-01-01
+"350","Agriculture","No. of Employees",10244,636,678,1004,1759,2243,1623,NA,NA,NA,2010-01-01
+"351","Agriculture","Payroll (in thousands)",72799,4812,4544,6418,13228,16014,13560,NA,NA,NA,2010-01-01
+"352","Utilities","No. of Businesses",76,28,10,8,11,5,8,NA,NA,NA,2010-01-01
+"353","Utilities","No. of Employees",7289,49,61,102,363,348,1450,NA,NA,NA,2010-01-01
+"354","Utilities","Payroll (in thousands)",157573,529,1321,4475,10202,7038,27291,NA,NA,NA,2010-01-01
+"355","Construction and Mining","No. of Businesses",6431,4204,951,654,427,130,52,10,3,NA,2010-01-01
+"356","Construction and Mining","No. of Employees",56042,5519,6235,8841,13206,8991,7992,3126,2132,NA,2010-01-01
+"357","Construction and Mining","Payroll (in thousands)",768110,58410,64704,107747,177785,135625,124847,58120,40873,NA,2010-01-01
+"358","Manufacturing","No. of Businesses",2983,1322,486,433,395,175,115,32,12,13,2010-01-01
+"359","Manufacturing","No. of Employees",92835,2265,3259,5936,12034,12343,16945,10973,8644,20436,2010-01-01
+"360","Manufacturing","Payroll (in thousands)",1603183,23872,37900,69658,164088,176584,261702,174515,186033,508832,2010-01-01
+"361","Wholesale Trade","No. of Businesses",3970,2387,721,461,266,81,45,6,3,NA,2010-01-01
+"362","Wholesale Trade","No. of Employees",39513,3983,4790,6244,8057,5534,6838,1964,2103,NA,2010-01-01
+"363","Wholesale Trade","Payroll (in thousands)",592815,50723,62408,80343,120368,90454,105083,41827,41609,NA,2010-01-01
+"364","Retail Trade","No. of Businesses",8243,3609,1956,1315,783,348,186,NA,NA,NA,2010-01-01
+"365","Retail Trade","No. of Employees",129714,7070,13117,17785,23671,24644,27289,NA,NA,NA,2010-01-01
+"366","Retail Trade","Payroll (in thousands)",948047,56939,84680,114773,163548,189247,207096,NA,NA,NA,2010-01-01
+"367","Transportation and Warehousing","No. of Businesses",1365,751,236,166,133,48,23,5,3,NA,2010-01-01
+"368","Transportation and Warehousing","No. of Employees",20213,1163,1587,2198,4103,3306,3602,2071,2183,NA,2010-01-01
+"369","Transportation and Warehousing","Payroll (in thousands)",201497,10191,13624,21411,39806,34560,28294,25641,27968,NA,2010-01-01
+"370","Information","No. of Businesses",1202,666,172,146,117,51,37,NA,8,NA,2010-01-01
+"371","Information","No. of Employees",24985,970,1138,2104,3708,3445,5306,NA,5568,NA,2010-01-01
+"372","Information","Payroll (in thousands)",514742,15885,18882,36478,56032,57056,99054,NA,110101,NA,2010-01-01
+"373","Finance and Insurance","No. of Businesses",4140,2564,675,533,246,78,30,8,NA,NA,2010-01-01
+"374","Finance and Insurance","No. of Employees",41216,3925,4517,7219,7149,5471,4291,2846,NA,NA,2010-01-01
+"375","Finance and Insurance","Payroll (in thousands)",698400,55695,65105,103062,131449,108697,78932,42645,NA,NA,2010-01-01
+"376","Real Estate and Rental and Leasing","No. of Businesses",4465,3305,647,295,141,47,27,NA,NA,NA,2010-01-01
+"377","Real Estate and Rental and Leasing","No. of Employees",25797,4863,4252,3795,4122,3307,3950,NA,NA,NA,2010-01-01
+"378","Real Estate and Rental and Leasing","Payroll (in thousands)",278469,51970,40767,39436,48771,39191,46878,NA,NA,NA,2010-01-01
+"379","Services","No. of Businesses",58856,42885,6247,4502,3225,1143,601,159,64,30,2010-01-01
+"380","Services","No. of Employees",569861,48462,41415,61355,97479,77680,91695,53801,44143,53831,2010-01-01
+"381","Services","Payroll (in thousands)",6320607,427361,408060,561941,904478,743145,1136338,768059,615415,755811,2010-01-01
+"382","Total","No. of Businesses",92730,61987,12311,8752,5875,2214,1153,289,100,49,2011-01-01
+"383","Total","No. of Employees",1030120,76015,81712,118610,177825,152155,172940,96651,69094,85118,2011-01-01
+"384","Total","Payroll (in thousands)",13021106,789660,839064,1210699,1977112,1742006,2252757,1410044,1211892,1587872,2011-01-01
+"385","Agriculture","No. of Businesses",665,401,89,73,56,30,13,NA,NA,NA,2011-01-01
+"386","Agriculture","No. of Employees",9557,604,588,993,1703,2153,1905,NA,NA,NA,2011-01-01
+"387","Agriculture","Payroll (in thousands)",73688,4625,4274,7135,14066,16857,14793,NA,NA,NA,2011-01-01
+"388","Utilities","No. of Businesses",82,32,14,9,8,5,8,NA,NA,NA,2011-01-01
+"389","Utilities","No. of Employees",7387,52,84,125,270,406,1462,NA,NA,NA,2011-01-01
+"390","Utilities","Payroll (in thousands)",184889,807,1835,3294,6870,10706,36214,NA,NA,NA,2011-01-01
+"391","Construction and Mining","No. of Businesses",5980,3807,881,649,434,148,47,11,3,NA,2011-01-01
+"392","Construction and Mining","No. of Employees",56253,5381,5817,8725,12960,10202,6935,4015,2218,NA,2011-01-01
+"393","Construction and Mining","Payroll (in thousands)",800338,61663,65316,105745,177621,147371,113561,82008,47052,NA,2011-01-01
+"394","Manufacturing","No. of Businesses",2895,1178,526,439,412,167,119,30,12,12,2011-01-01
+"395","Manufacturing","No. of Employees",93189,2063,3510,5994,12827,11846,18294,10444,8277,19934,2011-01-01
+"396","Manufacturing","Payroll (in thousands)",1678693,31818,39470,71159,183261,185832,286203,174438,195655,510856,2011-01-01
+"397","Wholesale Trade","No. of Businesses",3854,2249,731,470,260,87,46,7,4,NA,2011-01-01
+"398","Wholesale Trade","No. of Employees",41128,3832,4928,6377,7788,5993,6963,2308,2939,NA,2011-01-01
+"399","Wholesale Trade","Payroll (in thousands)",647866,53003,65527,89064,114627,99521,107884,58096,60144,NA,2011-01-01
+"400","Retail Trade","No. of Businesses",8088,3356,1982,1336,805,375,181,NA,NA,NA,2011-01-01
+"401","Retail Trade","No. of Employees",133290,6777,13243,18088,24095,26187,26178,NA,NA,NA,2011-01-01
+"402","Retail Trade","Payroll (in thousands)",1015207,53867,86315,122693,168509,213104,219131,NA,NA,NA,2011-01-01
+"403","Transportation and Warehousing","No. of Businesses",1342,719,232,184,130,46,NA,4,NA,NA,2011-01-01
+"404","Transportation and Warehousing","No. of Employees",18748,1218,1557,2446,4137,3043,NA,1710,NA,NA,2011-01-01
+"405","Transportation and Warehousing","Payroll (in thousands)",189187,11675,13583,25661,42779,33992,NA,18471,NA,NA,2011-01-01
+"406","Information","No. of Businesses",1154,613,179,134,131,54,29,NA,8,NA,2011-01-01
+"407","Information","No. of Employees",24275,889,1188,1950,4101,3579,4312,NA,5324,NA,2011-01-01
+"408","Information","Payroll (in thousands)",508694,14791,19954,31797,72131,63753,86785,NA,108653,NA,2011-01-01
+"409","Finance and Insurance","No. of Businesses",3967,2422,658,532,234,72,33,9,4,3,2011-01-01
+"410","Finance and Insurance","No. of Employees",42064,3866,4423,7205,6804,4999,4904,2969,2400,4494,2011-01-01
+"411","Finance and Insurance","Payroll (in thousands)",735750,59270,65806,109725,134216,101941,94871,51148,51334,67438,2011-01-01
+"412","Real Estate and Rental and Leasing","No. of Businesses",4390,3232,643,293,147,45,NA,NA,NA,NA,2011-01-01
+"413","Real Estate and Rental and Leasing","No. of Employees",25412,4880,4145,3827,4291,3242,NA,NA,NA,NA,2011-01-01
+"414","Real Estate and Rental and Leasing","Payroll (in thousands)",295193,53990,44693,41751,57915,35359,NA,NA,NA,NA,2011-01-01
+"415","Services","No. of Businesses",60313,43978,6376,4633,3258,1185,623,164,66,30,2011-01-01
+"416","Services","No. of Employees",578817,46453,42229,62880,98849,80505,93968,54603,45440,53890,2011-01-01
+"417","Services","Payroll (in thousands)",6891602,444150,432290,602674,1005117,833570,1206533,819935,724553,822780,2011-01-01
+"418","Total","No. of Businesses",92220,60326,12791,8978,6210,2313,1149,302,104,47,2012-01-01
+"419","Total","No. of Employees",1064017,81434,84717,121801,186652,158274,174411,102696,72725,81307,2012-01-01
+"420","Total","Payroll (in thousands)",13272436,777925,855226,1238766,1992378,1773171,2260431,1483021,1341418,1550100,2012-01-01
+"421","Agriculture","No. of Businesses",640,385,85,68,59,27,12,NA,NA,NA,2012-01-01
+"422","Agriculture","No. of Employees",10005,635,551,932,1808,1890,1660,NA,NA,NA,2012-01-01
+"423","Agriculture","Payroll (in thousands)",74204,5245,3659,6830,13979,14887,14130,NA,NA,NA,2012-01-01
+"424","Utilities","No. of Businesses",89,31,17,9,13,5,NA,5,NA,NA,2012-01-01
+"425","Utilities","No. of Employees",7491,63,115,136,448,365,NA,1447,NA,NA,2012-01-01
+"426","Utilities","Payroll (in thousands)",176474,803,1876,3949,11076,6988,NA,32280,NA,NA,2012-01-01
+"427","Construction and Mining","No. of Businesses",5782,3560,958,595,461,137,58,NA,NA,NA,2012-01-01
+"428","Construction and Mining","No. of Employees",57654,5378,6343,8113,13849,9304,8921,NA,NA,NA,2012-01-01
+"429","Construction and Mining","Payroll (in thousands)",776141,58061,64600,98280,181490,145194,124077,NA,NA,NA,2012-01-01
+"430","Manufacturing","No. of Businesses",2889,1171,506,435,432,178,113,32,10,12,2012-01-01
+"431","Manufacturing","No. of Employees",93939,2156,3459,6022,13256,12439,17730,11768,7240,19869,2012-01-01
+"432","Manufacturing","Payroll (in thousands)",1829095,25922,38660,68814,186496,180559,287017,179547,307582,554497,2012-01-01
+"433","Wholesale Trade","No. of Businesses",3919,2243,742,509,265,93,51,12,4,NA,2012-01-01
+"434","Wholesale Trade","No. of Employees",44133,3948,4888,6766,7779,6392,7479,3779,3102,NA,2012-01-01
+"435","Wholesale Trade","Payroll (in thousands)",709463,53322,73434,92665,113867,112683,127943,75207,60342,NA,2012-01-01
+"436","Retail Trade","No. of Businesses",8074,3277,1957,1344,870,401,173,NA,NA,NA,2012-01-01
+"437","Retail Trade","No. of Employees",134903,6753,13059,18026,25978,27971,25928,NA,NA,NA,2012-01-01
+"438","Retail Trade","Payroll (in thousands)",1020740,54495,84021,116996,175696,218096,223312,NA,NA,NA,2012-01-01
+"439","Transportation and Warehousing","No. of Businesses",1365,696,257,192,140,51,20,NA,NA,NA,2012-01-01
+"440","Transportation and Warehousing","No. of Employees",20210,1220,1718,2507,4290,3483,2999,NA,NA,NA,2012-01-01
+"441","Transportation and Warehousing","Payroll (in thousands)",207779,11760,14712,23060,46121,35913,27658,NA,NA,NA,2012-01-01
+"442","Information","No. of Businesses",1148,604,169,150,118,63,31,5,NA,NA,2012-01-01
+"443","Information","No. of Employees",24462,938,1114,2098,3599,4068,4919,1780,NA,NA,2012-01-01
+"444","Information","Payroll (in thousands)",503970,19327,19133,36501,71803,63453,88706,26304,NA,NA,2012-01-01
+"445","Finance and Insurance","No. of Businesses",3941,2307,743,522,243,74,34,10,5,3,2012-01-01
+"446","Finance and Insurance","No. of Employees",44161,3792,4971,7056,7103,5064,5267,3649,2836,4423,2012-01-01
+"447","Finance and Insurance","Payroll (in thousands)",801409,56985,73090,109695,148283,110159,106863,73083,49725,73526,2012-01-01
+"448","Real Estate and Rental and Leasing","No. of Businesses",4427,3213,663,317,158,48,NA,NA,NA,NA,2012-01-01
+"449","Real Estate and Rental and Leasing","No. of Employees",26138,5015,4293,4210,4713,3401,NA,NA,NA,NA,2012-01-01
+"450","Real Estate and Rental and Leasing","Payroll (in thousands)",300818,55754,45231,46927,62363,38751,NA,NA,NA,NA,2012-01-01
+"451","Services","No. of Businesses",59946,42839,6694,4837,3451,1236,624,164,73,28,2012-01-01
+"452","Services","No. of Employees",600921,51536,44206,65935,103829,83897,94405,55353,50767,50993,2012-01-01
+"453","Services","Payroll (in thousands)",6872344,436251,436810,635049,981203,846487,1185535,836948,778658,735403,2012-01-01
+"454","Total","No. of Businesses",90795,58114,13112,9138,6406,2360,1213,296,108,48,2013-01-01
+"455","Total","No. of Employees",1091951,84446,86879,123942,192336,162128,183959,98838,74623,84800,2013-01-01
+"456","Total","Payroll (in thousands)",14005317,831862,884242,1277855,2041654,1995706,2490835,1521857,1420824,1540481,2013-01-01
+"457","Agriculture","No. of Businesses",643,379,98,66,56,30,10,NA,NA,NA,2013-01-01
+"458","Agriculture","No. of Employees",10197,613,665,909,1756,2078,1396,NA,NA,NA,2013-01-01
+"459","Agriculture","Payroll (in thousands)",79519,4677,5016,6988,14671,16822,12808,NA,NA,NA,2013-01-01
+"460","Utilities","No. of Businesses",91,34,13,12,12,7,6,NA,NA,NA,2013-01-01
+"461","Utilities","No. of Employees",6549,58,83,170,383,468,1087,NA,NA,NA,2013-01-01
+"462","Utilities","Payroll (in thousands)",189998,836,1552,3578,9294,11078,28030,NA,NA,NA,2013-01-01
+"463","Construction and Mining","No. of Businesses",5967,3600,990,689,453,144,77,10,NA,NA,2013-01-01
+"464","Construction and Mining","No. of Employees",62192,5749,6506,9415,13461,9914,11033,3190,NA,NA,2013-01-01
+"465","Construction and Mining","Payroll (in thousands)",850004,63315,65789,115407,182909,144263,158783,63031,NA,NA,2013-01-01
+"466","Manufacturing","No. of Businesses",2933,1221,505,442,418,184,110,27,15,11,2013-01-01
+"467","Manufacturing","No. of Employees",94397,2237,3411,6049,12759,12873,17536,9520,10260,19752,2013-01-01
+"468","Manufacturing","Payroll (in thousands)",1665129,26958,40828,67984,173639,183891,306057,151116,220898,493758,2013-01-01
+"469","Wholesale Trade","No. of Businesses",3980,2246,783,505,289,92,50,12,3,NA,2013-01-01
+"470","Wholesale Trade","No. of Employees",44272,3975,5168,6758,8598,6336,7419,3923,2095,NA,2013-01-01
+"471","Wholesale Trade","Payroll (in thousands)",713731,55442,68878,93628,124403,105575,145249,76533,44024,NA,2013-01-01
+"472","Retail Trade","No. of Businesses",8283,3296,2054,1390,896,400,193,NA,NA,NA,2013-01-01
+"473","Retail Trade","No. of Employees",139706,6714,13800,18634,26570,27939,28418,NA,NA,NA,2013-01-01
+"474","Retail Trade","Payroll (in thousands)",1047177,54151,90612,119337,174000,222449,238060,NA,NA,NA,2013-01-01
+"475","Transportation and Warehousing","No. of Businesses",1396,704,278,205,133,49,NA,6,NA,NA,2013-01-01
+"476","Transportation and Warehousing","No. of Employees",19944,1253,1824,2779,4291,3388,NA,2262,NA,NA,2013-01-01
+"477","Transportation and Warehousing","Payroll (in thousands)",205306,12759,16889,26429,45097,37320,NA,21559,NA,NA,2013-01-01
+"478","Information","No. of Businesses",1135,605,180,132,115,61,26,9,NA,NA,2013-01-01
+"479","Information","No. of Employees",23849,909,1182,1836,3462,3986,3769,3140,NA,NA,2013-01-01
+"480","Information","Payroll (in thousands)",536396,15920,18870,33987,65884,68324,71344,49538,NA,NA,2013-01-01
+"481","Finance and Insurance","No. of Businesses",4026,2407,730,524,235,80,29,15,NA,NA,2013-01-01
+"482","Finance and Insurance","No. of Employees",44298,3957,4850,6933,6891,5620,4371,5307,NA,NA,2013-01-01
+"483","Finance and Insurance","Payroll (in thousands)",884412,64751,71609,111419,148324,125265,85818,113502,NA,NA,2013-01-01
+"484","Real Estate and Rental and Leasing","No. of Businesses",4672,3439,678,320,160,48,NA,NA,NA,NA,2013-01-01
+"485","Real Estate and Rental and Leasing","No. of Employees",26792,5442,4374,4215,4795,3456,NA,NA,NA,NA,2013-01-01
+"486","Real Estate and Rental and Leasing","Payroll (in thousands)",336341,66098,46996,51680,62016,43381,NA,NA,NA,NA,2013-01-01
+"487","Services","No. of Businesses",57669,40183,6803,4853,3639,1265,668,156,72,30,2013-01-01
+"488","Services","No. of Employees",619755,53539,45016,66244,109370,86070,102287,52308,49831,55090,2013-01-01
+"489","Services","Payroll (in thousands)",7497304,466956,457202,647418,1041417,1037339,1356511,882118,848270,760073,2013-01-01
+"490","Total","No. of Businesses",95466,62204,13159,9353,6662,2385,1241,312,98,52,2014-01-01
+"491","Total","No. of Employees",1118266,86454,87650,126795,201422,164253,187919,104784,68766,90223,2014-01-01
+"492","Total","Payroll (in thousands)",14416107,867722,918167,1326567,2199605,2007398,2535506,1571408,1251622,1738110,2014-01-01
+"493","Agriculture","No. of Businesses",653,396,99,69,51,23,11,NA,NA,NA,2014-01-01
+"494","Agriculture","No. of Employees",10720,598,675,1016,1523,1648,1502,NA,NA,NA,2014-01-01
+"495","Agriculture","Payroll (in thousands)",80740,4680,5031,7766,13536,14607,13507,NA,NA,NA,2014-01-01
+"496","Utilities","No. of Businesses",89,32,16,11,11,6,NA,4,NA,NA,2014-01-01
+"497","Utilities","No. of Employees",5573,52,104,151,380,403,NA,1132,NA,NA,2014-01-01
+"498","Utilities","Payroll (in thousands)",130497,649,1785,3334,9791,9462,NA,24869,NA,NA,2014-01-01
+"499","Construction and Mining","No. of Businesses",6369,3902,1025,696,499,162,69,13,NA,NA,2014-01-01
+"500","Construction and Mining","No. of Employees",64943,5786,6759,9375,15058,11415,10027,4331,NA,NA,2014-01-01
+"501","Construction and Mining","Payroll (in thousands)",906405,64695,71067,112323,211669,166971,156221,78714,NA,NA,2014-01-01
+"502","Manufacturing","No. of Businesses",3026,1280,505,448,445,172,123,28,14,11,2014-01-01
+"503","Manufacturing","No. of Employees",96828,2237,3406,6164,13577,12023,19529,9837,10170,19885,2014-01-01
+"504","Manufacturing","Payroll (in thousands)",1787544,28897,41053,72316,184659,183743,324760,201794,248197,502125,2014-01-01
+"505","Wholesale Trade","No. of Businesses",4040,2287,806,494,298,95,49,NA,NA,NA,2014-01-01
+"506","Wholesale Trade","No. of Employees",43329,3849,5389,6706,8916,6581,7703,NA,NA,NA,2014-01-01
+"507","Wholesale Trade","Payroll (in thousands)",692514,56950,73043,95351,139094,112479,143848,NA,NA,NA,2014-01-01
+"508","Retail Trade","No. of Businesses",8550,3536,2025,1444,894,400,195,NA,NA,NA,2014-01-01
+"509","Retail Trade","No. of Employees",142121,6935,13616,19469,26929,28337,28588,NA,NA,NA,2014-01-01
+"510","Retail Trade","Payroll (in thousands)",1097164,56764,93620,126546,178683,241110,251009,NA,NA,NA,2014-01-01
+"511","Transportation and Warehousing","No. of Businesses",1435,720,275,220,138,52,20,NA,NA,NA,2014-01-01
+"512","Transportation and Warehousing","No. of Employees",21029,1213,1820,2906,4324,3495,2938,NA,NA,NA,2014-01-01
+"513","Transportation and Warehousing","Payroll (in thousands)",218231,12284,16847,28837,46031,38771,28166,NA,NA,NA,2014-01-01
+"514","Information","No. of Businesses",1189,648,172,135,122,69,30,7,NA,NA,2014-01-01
+"515","Information","No. of Employees",24303,919,1160,1868,3749,4525,4509,2367,NA,NA,2014-01-01
+"516","Information","Payroll (in thousands)",556066,16452,19168,35568,69500,83479,100995,60539,NA,NA,2014-01-01
+"517","Finance and Insurance","No. of Businesses",4268,2658,750,509,232,71,33,10,NA,NA,2014-01-01
+"518","Finance and Insurance","No. of Employees",42621,4127,5049,6728,6944,4907,4859,3876,NA,NA,2014-01-01
+"519","Finance and Insurance","Payroll (in thousands)",894736,66083,77068,110671,150821,115568,98619,82508,NA,NA,2014-01-01
+"520","Real Estate and Rental and Leasing","No. of Businesses",5112,3844,695,326,170,46,NA,NA,NA,NA,2014-01-01
+"521","Real Estate and Rental and Leasing","No. of Employees",27412,5655,4500,4320,5005,3152,NA,NA,NA,NA,2014-01-01
+"522","Real Estate and Rental and Leasing","Payroll (in thousands)",341919,69796,49197,53636,64788,40746,NA,NA,NA,NA,2014-01-01
+"523","Services","No. of Businesses",60735,42901,6791,5001,3802,1289,674,175,69,33,2014-01-01
+"524","Services","No. of Employees",639387,55083,45172,68092,115017,87767,102675,58859,48349,58373,2014-01-01
+"525","Services","Payroll (in thousands)",7710291,490473,470290,680219,1131033,1000462,1327247,897828,819880,892859,2014-01-01
+"526","Total","No. of Businesses",96853,62835,13219,9668,6906,2443,1290,341,101,50,2015-01-01
+"527","Total","No. of Employees",1148702,85410,88224,130752,208576,167734,192375,114444,70539,90648,2015-01-01
+"528","Total","Payroll (in thousands)",15495460,916045,966677,1415729,2342878,2104403,2998423,1776912,1205078,1769314,2015-01-01
+"529","Agriculture","No. of Businesses",617,363,92,74,52,20,12,NA,NA,NA,2015-01-01
+"530","Agriculture","No. of Employees",9333,534,608,1047,1612,1477,1790,NA,NA,NA,2015-01-01
+"531","Agriculture","Payroll (in thousands)",72783,4184,4616,7979,14352,11571,14667,NA,NA,NA,2015-01-01
+"532","Utilities","No. of Businesses",88,34,14,12,9,6,NA,5,NA,NA,2015-01-01
+"533","Utilities","No. of Employees",5474,57,98,183,350,401,NA,1583,NA,NA,2015-01-01
+"534","Utilities","Payroll (in thousands)",138946,734,1885,4251,9669,10172,NA,44491,NA,NA,2015-01-01
+"535","Construction and Mining","No. of Businesses",6475,3880,1070,715,527,174,89,15,NA,NA,2015-01-01
+"536","Construction and Mining","No. of Employees",71756,5765,7110,9572,16140,11631,12866,5040,NA,NA,2015-01-01
+"537","Construction and Mining","Payroll (in thousands)",1039376,66283,81033,119265,238507,182500,192953,93855,NA,NA,2015-01-01
+"538","Manufacturing","No. of Businesses",3056,1241,497,493,432,199,125,46,11,12,2015-01-01
+"539","Manufacturing","No. of Employees",104749,2144,3306,6619,13167,13874,19395,16004,8337,21903,2015-01-01
+"540","Manufacturing","Payroll (in thousands)",1916066,29769,39480,83976,179231,229931,331030,285284,157357,580008,2015-01-01
+"541","Wholesale Trade","No. of Businesses",4016,2277,747,522,311,96,49,NA,NA,NA,2015-01-01
+"542","Wholesale Trade","No. of Employees",44116,3863,5035,7099,9290,6367,7518,NA,NA,NA,2015-01-01
+"543","Wholesale Trade","Payroll (in thousands)",798189,60264,80977,101592,169436,107712,154702,NA,NA,NA,2015-01-01
+"544","Retail Trade","No. of Businesses",8559,3450,2057,1510,901,369,214,NA,NA,NA,2015-01-01
+"545","Retail Trade","No. of Employees",144062,6519,13893,20266,27126,26314,30821,NA,NA,NA,2015-01-01
+"546","Retail Trade","Payroll (in thousands)",1144231,56588,97994,132905,192023,216270,268789,NA,NA,NA,2015-01-01
+"547","Transportation and Warehousing","No. of Businesses",1449,718,272,220,154,48,25,9,3,NA,2015-01-01
+"548","Transportation and Warehousing","No. of Employees",22540,1130,1813,2958,4743,3192,3565,3170,1969,NA,2015-01-01
+"549","Transportation and Warehousing","Payroll (in thousands)",236515,12489,16883,28443,48573,36728,36095,32886,24418,NA,2015-01-01
+"550","Information","No. of Businesses",1143,602,158,144,127,73,29,3,NA,NA,2015-01-01
+"551","Information","No. of Employees",23589,875,1046,1967,3892,5067,4407,820,NA,NA,2015-01-01
+"552","Information","Payroll (in thousands)",549637,23008,16895,34951,75990,95063,97887,18948,NA,NA,2015-01-01
+"553","Finance and Insurance","No. of Businesses",4393,2735,802,493,238,76,34,10,NA,NA,2015-01-01
+"554","Finance and Insurance","No. of Employees",43361,4168,5420,6461,7084,5326,5065,4082,NA,NA,2015-01-01
+"555","Finance and Insurance","Payroll (in thousands)",883893,70472,87340,116630,158749,141584,100361,95100,NA,NA,2015-01-01
+"556","Real Estate and Rental and Leasing","No. of Businesses",5084,3810,707,321,171,48,NA,NA,NA,NA,2015-01-01
+"557","Real Estate and Rental and Leasing","No. of Employees",27374,5609,4610,4265,5140,3333,NA,NA,NA,NA,2015-01-01
+"558","Real Estate and Rental and Leasing","Payroll (in thousands)",358406,73873,53628,55046,71198,45452,NA,NA,NA,NA,2015-01-01
+"559","Services","No. of Businesses",61973,43725,6803,5164,3984,1334,681,180,70,32,2015-01-01
+"560","Services","No. of Employees",652348,54746,45285,70315,120032,90752,101973,60345,49143,59757,2015-01-01
+"561","Services","Payroll (in thousands)",8357417,518382,485945,730692,1185150,1027418,1714723,931475,827439,936192,2015-01-01
+"562","Total","No. of Businesses",98028,62941,13653,10023,7115,2463,1337,339,104,53,2016-01-01
+"563","Total","No. of Employees",1177454,85123,90827,136104,215172,169276,198601,113791,73329,95231,2016-01-01
+"564","Total","Payroll (in thousands)",16647047,976102,1046556,1579118,2581720,2311470,2973885,1947010,1310165,1921020,2016-01-01
+"565","Agriculture","No. of Businesses",611,364,90,67,56,19,10,NA,NA,NA,2016-01-01
+"566","Agriculture","No. of Employees",9111,534,594,944,1706,1404,1375,NA,NA,NA,2016-01-01
+"567","Agriculture","Payroll (in thousands)",83518,5856,4312,8191,15933,13104,13379,NA,NA,NA,2016-01-01
+"568","Mining","No. of Businesses",37,23,7,NA,4,NA,NA,NA,NA,NA,2016-01-01
+"569","Mining","No. of Employees",302,29,46,NA,135,NA,NA,NA,NA,NA,2016-01-01
+"570","Mining","Payroll (in thousands)",5797,582,829,NA,2793,NA,NA,NA,NA,NA,2016-01-01
+"571","Utilities","No. of Businesses",89,31,14,NA,13,6,6,5,NA,NA,2016-01-01
+"572","Utilities","No. of Employees",5351,53,85,NA,451,400,1087,1515,NA,NA,2016-01-01
+"573","Utilities","Payroll (in thousands)",155595,890,1994,NA,13915,11893,35696,46185,NA,NA,2016-01-01
+"574","Construction","No. of Businesses",6627,3939,1083,736,555,192,98,17,7,NA,2016-01-01
+"575","Construction","No. of Employees",76710,5776,7174,9943,16769,12506,14082,5540,4920,NA,2016-01-01
+"576","Construction","Payroll (in thousands)",1210908,73572,88053,135245,265960,206924,234583,100501,106069,NA,2016-01-01
+"577","Manufacturing","No. of Businesses",3125,1230,553,519,425,207,117,47,15,12,2016-01-01
+"578","Manufacturing","No. of Employees",106830,2167,3667,7159,13271,14496,18104,15610,11007,21349,2016-01-01
+"579","Manufacturing","Payroll (in thousands)",2191457,35901,49253,99514,196604,270139,348744,326162,224081,641059,2016-01-01
+"580","Wholesale Trade","No. of Businesses",3951,2190,750,523,340,83,54,NA,NA,NA,2016-01-01
+"581","Wholesale Trade","No. of Employees",44224,3739,5017,7088,10194,5670,8232,NA,NA,NA,2016-01-01
+"582","Wholesale Trade","Payroll (in thousands)",808514,59800,77331,109546,176931,89594,194633,NA,NA,NA,2016-01-01
+"583","Retail Trade","No. of Businesses",8616,3429,2140,1517,870,383,226,NA,NA,NA,2016-01-01
+"584","Retail Trade","No. of Employees",144124,6560,14384,20492,25963,27182,32091,NA,NA,NA,2016-01-01
+"585","Retail Trade","Payroll (in thousands)",1211002,63250,107328,153148,194707,237124,290185,NA,NA,NA,2016-01-01
+"586","Transportation and Warehousing","No. of Businesses",1448,734,248,244,139,41,29,8,5,NA,2016-01-01
+"587","Transportation and Warehousing","No. of Employees",23831,1185,1669,3298,4282,2861,4251,3138,3147,NA,2016-01-01
+"588","Transportation and Warehousing","Payroll (in thousands)",269739,14838,17841,34668,47805,35432,45226,36018,37911,NA,2016-01-01
+"589","Information","No. of Businesses",1134,615,163,126,132,NA,29,5,6,NA,2016-01-01
+"590","Information","No. of Employees",23197,849,1064,1771,4168,NA,4250,1506,4080,NA,2016-01-01
+"591","Information","Payroll (in thousands)",587443,16877,20162,32809,82519,NA,81594,30445,96848,NA,2016-01-01
+"592","Finance and Insurance","No. of Businesses",4471,2771,808,523,237,84,NA,9,4,NA,2016-01-01
+"593","Finance and Insurance","No. of Employees",44554,4315,5419,6810,7059,5778,NA,3411,2694,NA,2016-01-01
+"594","Finance and Insurance","Payroll (in thousands)",968826,79229,94632,138965,176782,155685,NA,72138,75566,NA,2016-01-01
+"595","Real Estate and Rental and Leasing","No. of Businesses",5181,3864,729,345,167,49,NA,NA,NA,NA,2016-01-01
+"596","Real Estate and Rental and Leasing","No. of Employees",27617,5529,4748,4564,4952,3302,NA,NA,NA,NA,2016-01-01
+"597","Real Estate and Rental and Leasing","Payroll (in thousands)",386797,78242,59872,62707,71065,46492,NA,NA,NA,NA,2016-01-01
+"598","Services","No. of Businesses",62775,43774,7075,5410,4181,1342,710,185,62,36,2016-01-01
+"599","Services","No. of Employees",671905,54416,47006,73864,126357,91726,106296,62038,44558,65644,2016-01-01
+"600","Services","Payroll (in thousands)",8773249,547646,525779,800229,1339499,1161098,1560332,1087393,732894,1018378,2016-01-01
+"601","Total","No. of Businesses",102774,67064,13810,10200,7324,2530,1344,323,124,55,2017-01-01
+"602","Total","No. of Employees",1205856,91751,92010,138031,221363,173696,201344,108266,82426,96969,2017-01-01
+"603","Total","Payroll (in thousands)",16810847,978898,1050470,1576909,2673002,2311341,3001892,1761986,1513855,1942494,2017-01-01
+"604","Ag, Forestry, Fishing, Hunting","No. of Businesses",612,359,96,71,55,20,7,NA,NA,NA,2017-01-01
+"605","Ag, Forestry, Fishing, Hunting","No. of Employees",8878,580,610,984,1741,1476,1137,NA,NA,NA,2017-01-01
+"606","Ag, Forestry, Fishing, Hunting","Payroll (in thousands)",86597,5199,4761,8519,16175,15929,12720,NA,NA,NA,2017-01-01
+"607","Mining","No. of Businesses",32,17,6,NA,6,NA,NA,NA,NA,NA,2017-01-01
+"608","Mining","No. of Employees",330,19,39,NA,168,NA,NA,NA,NA,NA,2017-01-01
+"609","Mining","Payroll (in thousands)",6060,332,885,NA,3423,NA,NA,NA,NA,NA,2017-01-01
+"610","Utilities","No. of Businesses",97,38,13,NA,11,NA,7,NA,NA,NA,2017-01-01
+"611","Utilities","No. of Employees",5121,59,83,NA,377,NA,1256,NA,NA,NA,2017-01-01
+"612","Utilities","Payroll (in thousands)",150885,1099,2218,NA,12577,NA,41871,NA,NA,NA,2017-01-01
+"613","Construction","No. of Businesses",7006,4222,1137,757,583,181,101,18,7,NA,2017-01-01
+"614","Construction","No. of Employees",80213,6446,7552,10200,18054,12303,15043,6034,4581,NA,2017-01-01
+"615","Construction","Payroll (in thousands)",1253500,75892,92951,137207,283625,208550,255023,109746,90505,NA,2017-01-01
+"616","Manufacturing","No. of Businesses",3233,1327,547,498,449,213,124,43,21,11,2017-01-01
+"617","Manufacturing","No. of Employees",109004,2452,3674,6850,13741,14734,19193,13801,14228,20331,2017-01-01
+"618","Manufacturing","Payroll (in thousands)",2167253,32344,47479,97463,214153,255057,353882,287981,335313,543580,2017-01-01
+"619","Wholesale Trade","No. of Businesses",4076,2266,798,537,323,87,47,14,NA,NA,2017-01-01
+"620","Wholesale Trade","No. of Employees",47832,3838,5284,7227,9747,6122,7160,5070,NA,NA,2017-01-01
+"621","Wholesale Trade","Payroll (in thousands)",929487,58184,76594,116719,160555,103742,156968,150541,NA,NA,2017-01-01
+"622","Retail Trade","No. of Businesses",8635,3432,2082,1537,908,399,224,NA,NA,NA,2017-01-01
+"623","Retail Trade","No. of Employees",146731,6694,14052,20564,27259,28326,31768,NA,NA,NA,2017-01-01
+"624","Retail Trade","Payroll (in thousands)",1228121,60311,104145,153754,202774,234475,298898,NA,NA,NA,2017-01-01
+"625","Transportation And Warehousing","No. of Businesses",1563,811,286,223,147,49,31,8,8,NA,2017-01-01
+"626","Transportation And Warehousing","No. of Employees",26555,1275,1940,3118,4462,3346,4711,2831,4872,NA,2017-01-01
+"627","Transportation And Warehousing","Payroll (in thousands)",306713,13266,21138,32166,51640,39402,52804,31744,64552,NA,2017-01-01
+"628","Information","No. of Businesses",1225,704,161,133,117,67,29,6,NA,NA,2017-01-01
+"629","Information","No. of Employees",24426,992,1071,1861,3772,4596,4098,1816,NA,NA,2017-01-01
+"630","Information","Payroll (in thousands)",668928,17172,19199,34365,82389,93946,89327,38360,NA,NA,2017-01-01
+"631","Finance And Insurance","No. of Businesses",4638,2941,788,536,242,76,40,8,NA,NA,2017-01-01
+"632","Finance And Insurance","No. of Employees",45733,4681,5240,6931,7254,5192,6105,2929,NA,NA,2017-01-01
+"633","Finance And Insurance","Payroll (in thousands)",981574,87639,85971,129849,185528,133298,144729,61454,NA,NA,2017-01-01
+"634","Real Estate & Rental And Leasing","No. of Businesses",5511,4182,717,362,176,48,23,NA,NA,NA,2017-01-01
+"635","Real Estate & Rental And Leasing","No. of Employees",28414,6004,4664,4742,5308,3176,3282,NA,NA,NA,2017-01-01
+"636","Real Estate & Rental And Leasing","Payroll (in thousands)",383701,79358,60626,63317,74342,46881,48198,NA,NA,NA,2017-01-01
+"637","Services","No. of Businesses",66146,46765,7179,5529,4307,1381,711,167,69,38,2017-01-01
+"638","Services","No. of Employees",682619,58711,47801,75336,129480,93852,107591,56447,46597,66804,2017-01-01
+"639","Services","Payroll (in thousands)",8648028,548101,534503,798747,1385820,1163583,1547471,873724,733938,1062141,2017-01-01
+"640","Total","No. of Businesses",109605,73329,14040,10377,7365,2569,1415,334,124,52,2018-01-01
+"641","Total","No. of Employees",1238541,99077,93372,140793,222889,176205,212595,113174,84061,96375,2018-01-01
+"642","Total","Payroll (in thousands)",17981889,1062226,1098650,1654196,2807716,2462196,3214918,1949877,1634654,2097457,2018-01-01
+"643","Ag, Forestry, Fishing, Hunting","No. of Businesses",626,363,97,77,56,17,NA,NA,NA,NA,2018-01-01
+"644","Ag, Forestry, Fishing, Hunting","No. of Employees",9543,541,611,1068,1839,1339,NA,NA,NA,NA,2018-01-01
+"645","Ag, Forestry, Fishing, Hunting","Payroll (in thousands)",94317,5222,4816,9276,16709,13854,NA,NA,NA,NA,2018-01-01
+"646","Mining","No. of Businesses",37,22,5,5,NA,NA,NA,NA,NA,NA,2018-01-01
+"647","Mining","No. of Employees",356,26,37,71,NA,NA,NA,NA,NA,NA,2018-01-01
+"648","Mining","Payroll (in thousands)",6768,672,746,1306,NA,NA,NA,NA,NA,NA,2018-01-01
+"649","Utilities","No. of Businesses",93,40,12,10,12,NA,NA,4,NA,NA,2018-01-01
+"650","Utilities","No. of Employees",5032,70,82,131,417,NA,NA,1131,NA,NA,2018-01-01
+"651","Utilities","Payroll (in thousands)",156414,1347,2375,2931,14847,NA,NA,36666,NA,NA,2018-01-01
+"652","Construction","No. of Businesses",7673,4846,1148,764,581,192,114,22,6,NA,2018-01-01
+"653","Construction","No. of Employees",84432,7211,7626,10430,17866,13019,16840,7291,4149,NA,2018-01-01
+"654","Construction","Payroll (in thousands)",1351696,81905,98153,142680,287778,224142,306133,132050,78856,NA,2018-01-01
+"655","Manufacturing","No. of Businesses",3491,1540,570,504,452,208,142,47,16,12,2018-01-01
+"656","Manufacturing","No. of Employees",112598,2742,3757,6907,13860,14551,22331,16246,10602,21602,2018-01-01
+"657","Manufacturing","Payroll (in thousands)",2308026,38537,49573,91125,210952,256199,410439,385043,282835,583322,2018-01-01
+"658","Wholesale Trade","No. of Businesses",4342,2587,766,523,318,97,NA,8,NA,NA,2018-01-01
+"659","Wholesale Trade","No. of Employees",43430,4408,5107,7050,9526,6721,NA,3058,NA,NA,2018-01-01
+"660","Wholesale Trade","Payroll (in thousands)",785529,64556,75649,116714,157159,124396,NA,73524,NA,NA,2018-01-01
+"661","Retail Trade","No. of Businesses",8970,3826,2063,1512,890,394,232,50,3,NA,2018-01-01
+"662","Retail Trade","No. of Employees",146295,7365,13859,20178,26362,27532,32844,16237,1918,NA,2018-01-01
+"663","Retail Trade","Payroll (in thousands)",1260199,65973,106409,155159,201537,244392,303482,162846,20401,NA,2018-01-01
+"664","Transportation And Warehousing","No. of Businesses",1691,927,275,246,145,49,30,11,8,NA,2018-01-01
+"665","Transportation And Warehousing","No. of Employees",28001,1410,1844,3387,4521,3478,4665,3790,4906,NA,2018-01-01
+"666","Transportation And Warehousing","Payroll (in thousands)",332585,14946,20562,36527,55150,42718,54076,48056,60548,NA,2018-01-01
+"667","Information","No. of Businesses",1310,821,143,137,NA,63,32,3,7,NA,2018-01-01
+"668","Information","No. of Employees",23955,1149,948,1881,NA,4362,4783,878,4950,NA,2018-01-01
+"669","Information","Payroll (in thousands)",719281,20870,16098,41552,NA,93424,103014,19760,132970,NA,2018-01-01
+"670","Finance And Insurance","No. of Businesses",4780,3079,827,524,214,79,40,11,3,3,2018-01-01
+"671","Finance And Insurance","No. of Employees",46504,4812,5486,6864,6424,5420,6256,3905,1952,5385,2018-01-01
+"672","Finance And Insurance","Payroll (in thousands)",1025100,85793,93181,136744,177848,146720,135685,87042,63076,99011,2018-01-01
+"673","Real Estate & Rental And Leasing","No. of Businesses",5997,4643,731,368,176,53,23,3,NA,NA,2018-01-01
+"674","Real Estate & Rental And Leasing","No. of Employees",29381,6472,4744,4867,5202,3534,3341,1221,NA,NA,2018-01-01
+"675","Real Estate & Rental And Leasing","Payroll (in thousands)",417071,88148,63908,67606,80610,53014,51823,11963,NA,NA,2018-01-01
+"676","Services","No. of Businesses",70595,50635,7403,5707,4414,1409,740,175,78,34,2018-01-01
+"677","Services","No. of Employees",709014,62871,49271,77959,133413,95722,111808,59417,53696,64857,2018-01-01
+"678","Services","Payroll (in thousands)",9524903,594257,567180,852574,1531172,1248213,1638270,992926,960341,1139969,2018-01-01
