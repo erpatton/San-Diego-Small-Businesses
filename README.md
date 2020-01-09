@@ -1,5 +1,7 @@
 # San-Diego-Small-Businesses
 This is a repostiory for an analysis conducted on San Diego's Small Business ecosystem.  In this repository, one will find
+
+
 	1.) An example of the raw data provided by the EDD.  All EDD data can be found at this URL:  
 	https://www.labormarketinfo.edd.ca.gov	/LMID/Size_of_Business_Data.html
 	
