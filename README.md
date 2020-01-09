@@ -8,7 +8,7 @@ This is a repostiory for an analysis conducted on San Diego's Small Business eco
 	
 	2.) The base raw data used in the analsys, raw_data.csv.  
 	After manual manipulation, the EDD excel spreasheets were imported into R and merged.  
-	From this data base, additional data cleansing was performed.
+	From this raw database, additional data cleansing was performed.
 	
 	3.) An R Markdown file to walk through the data process.
 	
