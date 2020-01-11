@@ -10,6 +10,8 @@ This is a repostiory for an analysis conducted on San Diego's Small Business eco
 	After manual manipulation, the EDD excel spreasheets were imported into R and merged.  
 	From this raw database, additional data cleansing was performed.
 	
-	3.) An R Markdown file to walk through the data process.
+	3.) An R Markdown file to walk through the data process, "Data Journey.Rmd".
 	
-	4.) A final report, "SB EDD White Paper.pdf".
+	4.) A .pdf created by the Markdown, "San Diego Small Business- Data Journey.pdf".
+	
+	5.) A final report, "SB EDD White Paper.pdf".
